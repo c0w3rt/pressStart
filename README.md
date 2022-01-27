@@ -1,10 +1,9 @@
 # pressStart
 A shell script to automate setting up a fresh install of a debian based system.
 
-to use the script, run these commands
+to use the script, run this command
 
-sudo chmod +x ./pressStart.sh
-sudo ./pressStart.sh
+sudo chmod +x ./pressStart.sh && sudo ./pressStart.sh
 
 this script will update, upgrade and install essential software and also gives you the option to change the wallpaper.
 software included:
